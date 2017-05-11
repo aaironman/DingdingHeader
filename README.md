@@ -4,7 +4,7 @@
 
 **Thanks**
 
-[noties/Scrollable]: https://github.com/noties/Scrollable
+[noties/Scrollable] https://github.com/noties/Scrollable
 
 **Licensed**
 
