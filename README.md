@@ -4,10 +4,9 @@
 
 **Thanks**
 
-[Scrollable]: https://github.com/noties/Scrollable	"noties"
+[noties/Scrollable]: https://github.com/noties/Scrollable
 
 **Licensed**
-
 
 ```java
 Copyright 2017 
