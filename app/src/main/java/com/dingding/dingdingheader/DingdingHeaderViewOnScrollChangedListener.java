@@ -86,7 +86,6 @@ public class DingdingHeaderViewOnScrollChangedListener implements OnScrollChange
 
             nameHeaderX = nameTextPos;
         }
-        Log.v("mickey","nameFraction:" + nameFraction + "--circleFraction:" + circleFraction);
         circleText.setTranslationY(circleHeaderY);
         circleText.setTranslationX(-circleHeaderX);
         circleText.setScaleX(circleFraction);
